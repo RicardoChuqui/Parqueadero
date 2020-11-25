@@ -8,8 +8,8 @@ private String email;
 public String getDni() {
 	return dni;
 }
-public void setDni(String dni) {
-	this.dni = dni;
+public void setDni(String i) {
+	this.dni = i;
 }
 public int getTipoDocumento() {
 	return tipoDocumento;
